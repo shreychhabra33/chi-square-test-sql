@@ -55,3 +55,12 @@ H1: Marital status and education level are related.
 - Hypothesis testing
 
 ## File
+
+- `chi_square_test.sql`  
+  Contains the full SQL implementation of the Chi-Square Test of Independence, including:
+  - creation of observed contingency table
+  - calculation of expected frequencies
+  - computation of chi-square statistic
+  - calculation of degrees of freedom
+  - comparison with chi-square critical values
+  - final hypothesis decision
